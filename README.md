@@ -5,7 +5,12 @@ CONSTRUA O FLUXOGRAMA E O ALGORITMO DO EXERCÍCIO. CRIE UM PROGRAMA COM ESTRUTUR
 
 Início
 
-PORTUGOL COMENTARIO PENDENTE...
+Exibir mensagem "Vaga preferencial"
+Exibir opções para escolher
+	Ler opção selecionada 
+	Exibir mensagem de acordo com opção selecionada 
+	Exibir que não é deficiente se não selecionou nenhuma das opções
+ Fim Enquanto    
 
 Fim
 
