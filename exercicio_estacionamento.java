@@ -22,8 +22,11 @@ public class exercicio_estacionamento {
 		case 3: 
 			System.out.printf("Voce se identificou como Idoso \n Estacionamento liberado");
 			break;
+		case 4: 
+			System.out.printf("Voce nao possui nenhuma das necessidades exigidas para estacionar \n Estacionamento NAO liberado");
+			break;		
 		default:
-			System.out.printf("Voce não e deficiente, favor dirija-se a outra vaga");
+			System.out.printf("ERRO, favor escolher uma das opcoes apresentadas");
 			break;
 		
 
